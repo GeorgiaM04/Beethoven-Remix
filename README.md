@@ -6,7 +6,6 @@ A coded song including Fur Elise, transitioning into a modern beat.
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Usage](#usage)
-* [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
